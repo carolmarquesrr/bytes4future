@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+
+<img width= "100px" src="transferir.png">
+<a href="https://www.bytes4future.pt/" target="_blank"> <br> Ir para a pagina inicial </a>
+<hr>
+<h1> O Projeto BYTES4FUTURE </h1>
+<h2>História do Projeto</h2>
+
+   <h4> O projeto começou em dezembro de 2018 com o projeto piloto Code for All Sintra, na área técnica de programação, com o objetivo de aproximar jovens NEET do concelho de Sintra ao universo digital e ao mercado de trabalho.<br>
+<br>
+    
+    Em Portugal há uma grande procura de recursos humanos qualificados na área de programação e recentemente tem vindo a surgir a oportunidade de entrar no mercado da programação através da participação e conclusão de bootcamps.
+<br>    
+    <br> Durante o projeto, foram recebidos 20 jovens NEET, dos 18 aos 29 anos, para desenvolverem o inglês, as suas soft skills e participarem em bootcamps de programação, tanto a nível de iniciação como a nível intensivo.  O programa garantiu uma preparação profissional completa, do qual 80% dos jovens foram bem-sucedidos na entrada do mercado de trabalho.
+<br>    
+    <br>Em 2021 continuamos o projeto, iniciando o <B><U> Bytes4Future</B></U> , para todos os jovens que queiram UPSkill na área tecnológica!</br>
+<br>
+
+<img width="300px" src="Code for All_Sintra_codeforall_PT.svg">
+<hr>
+
+
+
+<a href="https://www.facebook.com/bytes4future/"><img height= "50px" src="facebook.png"> </a>
+<a href="https://www.instagram.com/bytes4future/"><img height= "50px" src="instagram.jpg"> </a>
+<BR>
+    <BR>
+    
+<footer> Copyright 2023 BYTES4FUTURE | Desenvolvido por CAROLMARQUESRR </footer>
+
+</body>
+</html>
