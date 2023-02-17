@@ -20,7 +20,13 @@
                 <label for="password"> Password: </label>
                 <input type="password" name="password" id="password">   
              </div>  
-             <input type="text"> 
+
+             <div> 
+                <label for="DN"> Data de Nascimento: </label>
+                <input type="date" name="date" id="date">   
+             </div>  
+
+             <input type="submit" value="enviar"> 
             
         </fieldset>
     </form>
