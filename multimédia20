@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Multimedia </title>
+    <link rel="icon" type="image/x-icon" href="IMG/logobytes4future.png">
+</head>
+<body>
+    <header style="text-align:center;">
+        <br> BYTES4FUTURE 
+        <br> 
+<img src="IMG/logobytes4future.png" style="text-align: center;" alt="" width="100px">
+        
+       <!---   <a href="/html/">HTML</a> |
+        <a href="/css/">CSS</a> |
+        <a href="/js/">JavaScript</a> |
+        <a href="/python/"> Python</a>
+        CRIAR A IMAGEM, como eu criei uma pasta de Imagens, tive que incluir no 
+        codigo acima IMG/e a imagem -----> 
+        <nav> 
+        <br> 
+        <a href="//www.facebook.com/bytes4future/" alt="" widht="50"> <img height= "20px" src="IMG/redes sociais/instagram.jpg"> </a>
+        <a href="//www.facebook.com/bytes4future/" alt="" widht="50"> <img height= "20px" src="IMG/redes sociais/facebook.png"> </a>
+       <br> <a href="http://127.0.0.1:5500/formulario.html?Nome=fgsg&email=carol.marques.93%40hotmail.com&genero=Feminino&date=&mensagem=+" target="_blank"> Página Inicial |</a>
+        <a href="http://127.0.0.1:5500/formulario.html?Nome=fgsg&email=carol.marques.93%40hotmail.com&genero=Feminino&date=&mensagem=+" target="_blank"> Formulário |</a>
+            <a href="http://127.0.0.1:5500/multimedia2.html" target="_blank"> Multimédia </a></P>
+        </nav> 
+  </header> 
+    <h1>Audio </h1>
+    <audio src="AUDIOS/y2mate.com - Police Sound Effect.mp3" controls > </audio>
+
+    <h1>Video Local  </h1>
+    <video src="VIDEOS/Bytes 4 Future.mp4" width="300px" controls  video poster="IMG/logobytes4future.png" > </video>
+    <br>
+    <h5> Exercicio </h5>
+    <iframe src="exercicio2.html" ></iframe>
+    
+    <h5> Video Youtube </h5>
+
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/qy0aVo_3OUs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
+
+</div> 
+<hr> <!--- CRIAR A LINHA HR----->
+            <footer> 
+             Copyright 2023 BYTES4FUTURE | Desenvolvido por CAROL 
+           
+            </footer>
+
+    
+    
+</body>
+</html>
