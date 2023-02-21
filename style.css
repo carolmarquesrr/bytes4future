@@ -1,0 +1,49 @@
+
+body {
+    background-color: bisque;
+    margin: 20px;
+    text-align: justify;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    border-style: dotted; color: black;
+}
+header {
+    text-align: center;
+    margin: 20px;
+    padding: 20px;
+
+}
+
+/* header img{
+    width: 100px;
+}
+nav img{
+    width: 30px;
+}
+ 
+/* comentario igual JS. quando coloco um ponto, estou  a colocar uma classe, ex: */ 
+
+.logo{
+    width: 50%;
+}
+.redes-sociais {
+    width: 30px;
+}
+span{
+    background-color: red; color: white;
+}
+nav {
+    background-color: grey;
+    padding: 5px;
+    margin: 10px;
+    
+}
+a{
+    color: white;
+    text-decoration: none;
+}
+footer{
+    background-color: grey;
+    padding: 5px;
+    margin: 10px;
+    text-align: center;
+}
