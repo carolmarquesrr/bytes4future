@@ -1,10 +1,10 @@
 
 body {
-    background-color: bisque;
+    background-color: rgb(248, 182, 243);
     margin: 20px;
     text-align: justify;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    border-style: dotted; color: black;
+    border-style: dotted; color: rgba(168, 1, 173, 0.541);
 }
 header {
     text-align: center;
@@ -22,28 +22,34 @@ nav img{
  
 /* comentario igual JS. quando coloco um ponto, estou  a colocar uma classe, ex: */ 
 
-.logo{
+.logo{                          /*prestar atençao na classe no HTML*/
     width: 50%;
-}
-.redes-sociais {
-    width: 30px;
-}
-span{
-    background-color: red; color: white;
+    max-width: 500px;
+    min-width: 100px;
 }
 nav {
-    background-color: grey;
+    background-color: rgb(211, 24, 211);
     padding: 5px;
     margin: 10px;
-    
 }
 a{
     color: white;
     text-decoration: none;
 }
+span{
+    background-color: rgb(255, 0, 234); color: white;
+}
+.redes-sociais {
+    width: 50px;
+}
+main{
+    text-align: justify; 
+    background-color:rgb(250, 211, 247)
+}
 footer{
-    background-color: grey;
+    background-color: rgb(255, 0, 234);
     padding: 5px;
     margin: 10px;
     text-align: center;
+    text-decoration-color: blue;
 }
