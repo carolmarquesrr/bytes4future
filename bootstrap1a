@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bootstrap Buttons Exercise</title>
+ <!--INCLUDING BOOTSTRAP-->
+ <link rel="stylesheet"
+ href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"
+ integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z"
+ crossorigin="anonymous" />
+ 
+<script
+src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"
+integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN"
+crossorigin="anonymous" ></script>
+
+
+<!--- No ficheiro dado:
+1. Transforma a section num bootstrap container.
+2. Dá ao h1 texto branco, background preto e texto alinhado ao centro.
+3. Tranforma a div num alerta amarelo. Coloca o atributo role como alert.
+4. Transforma o primeiro botão num botão bootstrap verde.
+5. Transforma o segundo botão num botão bootstrap vermelho.
+6. Personaliza algo à tua escolha. -->
+
+<nav class="navbar navbar-expand-lg navbar-light bg-light">
+    <a class="navbar-brand" href="#">Navbar </a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarNav">
+      <ul class="navbar-nav">
+        <li class="nav-item active">
+          <a class="nav-link" href="#">Homeeee <span class="sr-only">(current)</span></a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="#">Features </a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="#">Pricing</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link disabled" href="#">Disabled</a>
+        </li>
+      </ul>
+    </div>
+  </nav>
+  
+</head>
+ <body>
+
+<section class="container">
+
+        <div class="row text-center"> </div>
+        <H1 class=" bg-dark text-light text-center"> GOOD NEWS </H1>
+        <div class="alert alert-warning" role="alert" >  YOU ARE GOING TO LEARN, I HOPE SO  </div>
+        <div class="alert alert-danger" role="alert"> You cand do it! </div>
+
+        <div class="alert alert-dark" role="alert">  Lesgo Carol  </div>
+        <div class="alert alert-success" role="alert"> lets to celebrate  </div>
+
+        <button type="button" class="btn btn-success shadow"> Come To Terms With</button>
+        <button type="button" class="btn btn-danger shadow"> Continue To Deny</button>
+
+ 
+</section>
+</body>
+</html>
